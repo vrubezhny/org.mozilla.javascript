@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.mozilla.javascript.source
+Bundle-Version: 1.7.5.qualifier
+Bundle-Vendor: %Bundle-Vendor.0
+Bundle-Localization: plugin
+Eclipse-SourceBundle: org.mozilla.javascript;version="1.7.5.qualifier"
+
